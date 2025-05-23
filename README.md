@@ -1,4 +1,4 @@
-#Assignment Title  Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+#Assignment Title :  Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
 **Course Title**:Computer Ethics and Cyber law
 
