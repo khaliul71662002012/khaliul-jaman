@@ -12,6 +12,7 @@ Department of Computer Science and Engineering
 Hajee Mohammad Danesh Science and Technology University
 
 **Course Title**:Computer Ethics and Cyber law
+
 **Course Code**:CES-455
 
 ## Introduction
