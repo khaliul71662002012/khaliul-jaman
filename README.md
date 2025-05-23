@@ -1,4 +1,9 @@
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+
+**Course Title**:Computer Ethics and Cyber law
+
+**Course Code**:CES-455
+
 **Submitted BY**
 
 Name : Khaliul Jaman Rakib
@@ -11,9 +16,12 @@ Department of Computer Science and Engineering
 
 Hajee Mohammad Danesh Science and Technology University
 
-**Course Title**:Computer Ethics and Cyber law
+Submitted To
+Pankaj Bhowmik
+Lecturer
+Department of Computer Science and Engineering,HSTU.
 
-**Course Code**:CES-455
+
 
 ## Introduction
 
