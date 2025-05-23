@@ -1,7 +1,7 @@
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 **Submitted BY**
-**Name** : Khaliul Jaman Rakib
-**ID**   : 2002012
+Name : Khaliul Jaman Rakib
+ID   : 2002012
 level 4, Semester 2
 Department of Computer Science and Engineering
 Hajee Mohammad Danesh Science and Technology University
